@@ -7,7 +7,7 @@ Nella soluzione del test proposta viene immaginato un veivolo dei vigili del fuo
 
 1. Una volta avviato traccar,visualizzare l'interfaccia modern ovvero _"http://{host}:{port}/modern/#/"_, in quanto su quella vecchia i device non compaiono;
 2. Eseguire l'accesso come admin (user: **admin**, password: **admin**);
-3. Aprire VScode o qualsiasi altro editor e mandare in esecuzione il file _"client.go"_;
+3. Aprire VScode o qualsiasi altro editor e mandare in esecuzione il file _"client.go"_ con il comando **go run .**;
 4. Da terminale scegliere (digitando _"S"_ o _"N"_) se si vuole cambiare la base URL (quella di default è **http://localhost:8082**);
 5. Se la scelta è stata _"N"_ partirà subito la simulazione, altrimenti verrà chiesto di digitare la nuova base URL (ad esempio digitando: _http://myserver.my:5001_);
 6. Ritornare su traccar ed aggiornare la pagina, il veivolo resterà inizialmente fermo per dare la possibilità di ingrandire in tempo sulla zona desiderata (nei pressi di Taranto) per poter vedere meglio ciò che accade;
