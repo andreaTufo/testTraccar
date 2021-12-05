@@ -24,3 +24,7 @@ Ogni qual volta si desidera far ripartire la simulazione, ripetere tutti i passi
 ## Notifiche
 
 Una volta avviata la simulazone correttamente saranno ricevute notifiche ogni qual volta il dispositivo entra o esce dalla geofence.
+
+## Immagine del percorso
+
+![percorso image](/ "percorso effettutao in una simulazione")
