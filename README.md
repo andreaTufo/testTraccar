@@ -19,7 +19,7 @@ Nella soluzione del test proposta viene immaginato un veivolo dei vigili del fuo
 
 Il device si fermerà un paio di volte volontariamente per dare la possibilità di osservare gli attributi, cliccando prima sul device presente sulla mappa e poi su _"more info"_. La simulazione sarà finita quando su terminale comparirà la scritta _"finished"_.
 
-Ogni qual volta si desidera far ripartire la simulazione aggiornare la pagina di traccar nuovamente.
+Ogni qual volta si desidera far ripartire la simulazione, ripetere tutti i passi dal punto 3, compreso l'aggiornamento della pagina.
 
 ## Notifiche
 
