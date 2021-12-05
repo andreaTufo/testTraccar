@@ -27,4 +27,4 @@ Una volta avviata la simulazone correttamente saranno ricevute notifiche ogni qu
 
 ## Immagine del percorso
 
-![percorso image](/ "percorso effettutao in una simulazione")
+![percorso image](/capture_20211205113533774.bmp "percorso effettutao in una simulazione")
